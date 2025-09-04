@@ -2,7 +2,7 @@
 
 A secure healthcare application with authentication and encryption features.
 
-**Note:** This is a **team project** developed collaboratively as part of a group effort.
+> **Note:** This is a **team project** developed collaboratively as part of a group effort.
 
 ## Features
 
